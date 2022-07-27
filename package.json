@@ -1,0 +1,28 @@
+{
+  "name": "train_chase",
+  "version": "1.0.0",
+  "description": "a simple sorting problem with a stroy",
+  "main": "index.js",
+  "jest": {
+    "verbose": true,
+    "modulePaths": ["<rootDir>"] 
+  },
+  "scripts": {
+    "test": "jest",
+    "launch": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean-olson/train_chase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean-olson/train_chase/issues"
+  },
+  "homepage": "https://github.com/sean-olson/train_chase#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
